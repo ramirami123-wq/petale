@@ -312,12 +312,12 @@
         "heading_pf9z9Y": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "",
+            "heading": "Professional Skincare Results at Home",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Transform your skincare routine with advanced ultrasonic technology that helps remove impurities without harsh scrubbing. Lightweight, rechargeable, and easy to use, it's the perfect beauty tool for achieving cleaner pores, softer skin, and a natural glow every day. </p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -424,12 +424,12 @@
         "heading_phxWYV": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "",
+            "heading": "Deep Cleanse for Clearer, Healthier-Looking Skin",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Say goodbye to clogged pores, blackheads, and excess oil with the Petale Ultrasonic Skin Scrubber. Designed to gently cleanse and exfoliate, it helps reveal smoother, fresher skin while supporting a cleaner and more radiant complexion from the comfort of your home.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
