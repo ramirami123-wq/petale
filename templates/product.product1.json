@@ -488,6 +488,21 @@
         "bottom_padding_mobile": 0
       }
     },
+    "custom_liquid_Rh6Ven": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div style=\"margin:25px 0;border:1px solid #eee;border-radius:14px;overflow:hidden;font-family:inherit;\">\n  \n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;background:#e0dfc8;color:#fff;font-weight:700;padding:14px 10px;text-align:center;\">\n    <div style=\"text-align:left;\">Benefits</div>\n    <div>Petale</div>\n    <div>Others</div>\n  </div>\n\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;padding:14px 10px;border-top:1px solid #eee;text-align:center;\">\n    <div style=\"text-align:left;\">Deep Pore Cleansing</div>\n    <div>✅</div>\n    <div>❌</div>\n  </div>\n\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;padding:14px 10px;border-top:1px solid #eee;text-align:center;background:#fafafa;\">\n    <div style=\"text-align:left;\">Removes Blackheads & Whiteheads</div>\n    <div>✅</div>\n    <div>❌</div>\n  </div>\n\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;padding:14px 10px;border-top:1px solid #eee;text-align:center;\">\n    <div style=\"text-align:left;\">Ultrasonic Skin Scrubbing Technology</div>\n    <div>✅</div>\n    <div>❌</div>\n  </div>\n\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;padding:14px 10px;border-top:1px solid #eee;text-align:center;background:#fafafa;\">\n    <div style=\"text-align:left;\">Safe & Gentle on Skin</div>\n    <div>✅</div>\n    <div>⚠️</div>\n  </div>\n\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;padding:14px 10px;border-top:1px solid #eee;text-align:center;\">\n    <div style=\"text-align:left;\">Multiple Cleaning Modes</div>\n    <div>✅</div>\n    <div>❌</div>\n  </div>\n\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;padding:14px 10px;border-top:1px solid #eee;text-align:center;background:#fafafa;\">\n    <div style=\"text-align:left;\">Portable & Rechargeable</div>\n    <div>✅</div>\n    <div>❌</div>\n  </div>\n\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;padding:14px 10px;border-top:1px solid #eee;text-align:center;\">\n    <div style=\"text-align:left;\">Suitable For All Skin Types</div>\n    <div>✅</div>\n    <div>⚠️</div>\n  </div>\n\n</div>",
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
     "faq_byLxM7": {
       "type": "faq",
       "blocks": {
@@ -497,8 +512,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "How often should I use the device?",
+            "row_content": "<p>For best results, use it <strong>2–3 times per week</strong> depending on your skin type and needs.</p>"
           }
         },
         "frequently_asked_question_qKUeCx": {
@@ -507,8 +522,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Is it safe for sensitive skin?",
+            "row_content": "<p><br/>Yes. The device is designed with gentle ultrasonic technology and adjustable settings suitable for most skin types.<br/><br/></p>"
           }
         },
         "frequently_asked_question_p9THCx": {
@@ -517,8 +532,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Does it hurt to use?",
+            "row_content": "<p>No. The treatment is painless and non-invasive when used according to the instructions.</p><p></p>"
           }
         },
         "frequently_asked_question_KdBJC7": {
@@ -527,8 +542,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Can it remove blackheads and whiteheads?",
+            "row_content": "<p><br/>Yes. It helps loosen and remove blackheads, whiteheads, excess oil, and other impurities from clogged pores.<br/><br/></p>"
           }
         }
       },
@@ -662,6 +677,7 @@
     "image_with_text_pny4DB",
     "scrolling_banner_cXMWJF",
     "image_with_text_3DwQRt",
+    "custom_liquid_Rh6Ven",
     "faq_byLxM7",
     "1774373014960824ac",
     "331e6fca-2947-4a19-89c5-9396be0d666a"
