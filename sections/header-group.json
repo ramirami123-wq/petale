@@ -99,6 +99,21 @@
         "padding_bottom_mobile": 16
       }
     },
+    "custom_liquid_hEFAFw": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<br><br><br>",
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
     "mobile-navigation": {
       "type": "mobile-navigation",
       "blocks": {
@@ -138,6 +153,7 @@
   "order": [
     "announcement-bar",
     "header",
+    "custom_liquid_hEFAFw",
     "mobile-navigation"
   ]
 }
