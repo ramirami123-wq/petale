@@ -86,7 +86,7 @@
         "text_zYmrxL": {
           "type": "text",
           "settings": {
-            "text": "Calmiva",
+            "text": "Stop Guessing. Start Glowing",
             "highlight_type": "underline",
             "text_size": 120,
             "text_color": "primary",
@@ -105,7 +105,7 @@
         "speed": 10,
         "direction": "right",
         "pause_hover": false,
-        "bg_light": "#E0DFC8",
+        "bg_light": "#e0dfc8",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -127,7 +127,7 @@
         "collection_k9QdRf": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "frontpage",
             "show_description": true,
             "description": "",
             "number_of_lines_shown": "none",
@@ -144,6 +144,7 @@
             "overlay_opacity": 0,
             "image_ratio": "100",
             "show_sound_control": false,
+            "video_url": "",
             "enable_video_autoplay": false,
             "video_alt_text": "",
             "product_card": "",
@@ -213,7 +214,7 @@
         "text_ARBErC": {
           "type": "text",
           "settings": {
-            "text": "Free Delivery",
+            "text": "Professional Skin Analysis, Beautiful Results",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -233,7 +234,7 @@
         "speed": 20,
         "direction": "right",
         "pause_hover": true,
-        "bg_light": "#E0DFC8",
+        "bg_light": "#e0dfc8",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -264,7 +265,7 @@
         "text_DYie9T": {
           "type": "text",
           "settings": {
-            "text": "<p>At our store, we believe that self-care should be simple, effective, and accessible to everyone. That’s why we’re dedicated to offering innovative beauty and wellness products designed to fit seamlessly into your daily routine.</p><p>Our featured eye care device combines modern technology with comfort, helping you relax, refresh, and take better care of your skin—all from the comfort of your home. Whether you’re looking to unwind after a long day or enhance your skincare routine, our products are made to support your well-being.</p>",
+            "text": "<p>At <strong>Petale</strong>, we believe that every person deserves a skincare routine designed specifically for their skin. That's why we created our Skin Care Routine Machine—to help you understand your skin better and discover the products that suit your unique needs.</p><p>Using advanced skin analysis technology, Petale provides personalized skincare recommendations based on your skin type and concerns, making it easier to build an effective routine with confidence.</p><p>Our mission is simple: <strong>to make professional skincare guidance accessible, personalized, and effortless for everyone.</strong></p><p>✨ <strong>Discover Your Skin. Build Your Routine. Glow with Confidence.</strong> ✨</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
@@ -302,7 +303,7 @@
         "text_Xn6gjA": {
           "type": "text",
           "settings": {
-            "text": "enjoy your self-care moments every day",
+            "text": "Smarter Skin Starts Here. Scan, Analyze, Glow",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -322,7 +323,7 @@
         "speed": 20,
         "direction": "right",
         "pause_hover": false,
-        "bg_light": "#E0DFC8",
+        "bg_light": "#e0dfc8",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -344,7 +345,7 @@
         "frequently_asked_question_cCBAj6": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
             "heading": "What does this eye device do?",
@@ -354,7 +355,7 @@
         "frequently_asked_question_kjDnG9": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
             "heading": "Is it safe to use daily?",
@@ -364,7 +365,7 @@
         "frequently_asked_question_4dJVT3": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
             "heading": "How long does it take to see results?",
