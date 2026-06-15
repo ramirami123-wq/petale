@@ -270,7 +270,7 @@
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "Salon-Smooth Feet Without Leaving Home.",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -312,12 +312,12 @@
         "heading_pf9z9Y": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "",
+            "heading": "Professional Foot Care at Home",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Enjoy smooth, healthy-looking feet without expensive salon visits. This rechargeable foot grinder quickly removes hard skin, calluses, and rough patches, helping restore softness and comfort with every use.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -328,37 +328,14 @@
             "text_dark": "rgba(0,0,0,0)",
             "color_heading_highlight_dark": "rgba(0,0,0,0)"
           }
-        },
-        "button_DcFckr": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
         }
       },
       "block_order": [
-        "heading_pf9z9Y",
-        "button_DcFckr"
+        "heading_pf9z9Y"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1781381303_IMG_4633.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -405,7 +382,7 @@
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "Say Goodbye to Rough Heels, Hello to Baby-Soft Feet.",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -447,12 +424,12 @@
         "heading_phxWYV": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "",
+            "heading": "Soft, Beautiful Feet Made Easy",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Designed for effortless foot care, the digital foot grinder features powerful yet gentle exfoliation technology to leave your feet feeling refreshed, polished, and ready to show off with confidence.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -463,37 +440,14 @@
             "text_dark": "rgba(0,0,0,0)",
             "color_heading_highlight_dark": "rgba(0,0,0,0)"
           }
-        },
-        "button_zpWWi9": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
         }
       },
       "block_order": [
-        "heading_phxWYV",
-        "button_zpWWi9"
+        "heading_phxWYV"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1781381303_IMG_4632.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -534,6 +488,21 @@
         "bottom_padding_mobile": 0
       }
     },
+    "custom_liquid_jjwNmH": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div style=\"margin:25px 0;border:1px solid #eee;border-radius:14px;overflow:hidden;font-family:inherit;\">\n  \n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;background:#e0dfc8;color:#fff;font-weight:700;padding:14px 10px;text-align:center;\">\n    <div style=\"text-align:left;\">Benefits</div>\n    <div>Petale</div>\n    <div>Others</div>\n  </div>\n\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;padding:14px 10px;border-top:1px solid #eee;text-align:center;\">\n    <div style=\"text-align:left;\">Removes Hard Skin & Calluses</div>\n    <div>✅</div>\n    <div>❌</div>\n  </div>\n\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;padding:14px 10px;border-top:1px solid #eee;text-align:center;background:#fafafa;\">\n    <div style=\"text-align:left;\">Rechargeable Battery</div>\n    <div>✅</div>\n    <div>❌</div>\n  </div>\n\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;padding:14px 10px;border-top:1px solid #eee;text-align:center;\">\n    <div style=\"text-align:left;\">Digital Battery Display</div>\n    <div>✅</div>\n    <div>❌</div>\n  </div>\n\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;padding:14px 10px;border-top:1px solid #eee;text-align:center;background:#fafafa;\">\n    <div style=\"text-align:left;\">Safe & Painless Use</div>\n    <div>✅</div>\n    <div>⚠️</div>\n  </div>\n\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;padding:14px 10px;border-top:1px solid #eee;text-align:center;\">\n    <div style=\"text-align:left;\">Multiple Grinding Heads</div>\n    <div>✅</div>\n    <div>❌</div>\n  </div>\n\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr;padding:14px 10px;border-top:1px solid #eee;text-align:center;background:#fafafa;\">\n    <div style=\"text-align:left;\">Easy Home Pedicure</div>\n    <div>✅</div>\n    <div>❌</div>\n  </div>\n\n</div>",
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
     "faq_byLxM7": {
       "type": "faq",
       "blocks": {
@@ -543,8 +512,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "How often should I use the device?",
+            "row_content": "<p><br/>For best results, use it <strong>2–3 times per week</strong> depending on your skin type and needs.<br/><br/></p>"
           }
         },
         "frequently_asked_question_qKUeCx": {
@@ -553,8 +522,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Is it safe for sensitive skin?",
+            "row_content": "<p><br/>Yes. The device is designed with gentle ultrasonic technology and adjustable settings suitable for most skin types.<br/><br/></p>"
           }
         },
         "frequently_asked_question_p9THCx": {
@@ -563,8 +532,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Does it hurt to use?",
+            "row_content": "<p><br/> No. The treatment is painless and non-invasive when used according to the instructions.<br/><br/></p>"
           }
         },
         "frequently_asked_question_KdBJC7": {
@@ -573,8 +542,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Can it remove blackheads and whiteheads?",
+            "row_content": "<p><br/>Yes. It helps loosen and remove blackheads, whiteheads, excess oil, and other impurities from clogged pores.<br/><br/></p>"
           }
         }
       },
@@ -615,8 +584,22 @@
         "padding_bottom_mobile": 28
       }
     },
-    "1774373014960824ac": {
+    "1781559649e1d6412f": {
       "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_DhaRkj": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_DhaRkj"
+      ],
       "settings": {
         "include_margins": true
       }
@@ -699,26 +682,6 @@
         "padding_top_mobile": 20,
         "padding_bottom_mobile": 20
       }
-    },
-    "1781559649e1d6412f": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_DhaRkj": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "review_data": "real_data",
-            "max_width": 1200,
-            "show_shop_reviews": false,
-            "empty_state": "empty_widget"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_DhaRkj"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
@@ -728,9 +691,9 @@
     "image_with_text_pny4DB",
     "scrolling_banner_cXMWJF",
     "image_with_text_3DwQRt",
+    "custom_liquid_jjwNmH",
     "faq_byLxM7",
-    "1774373014960824ac",
-    "331e6fca-2947-4a19-89c5-9396be0d666a",
-    "1781559649e1d6412f"
+    "1781559649e1d6412f",
+    "331e6fca-2947-4a19-89c5-9396be0d666a"
   ]
 }
