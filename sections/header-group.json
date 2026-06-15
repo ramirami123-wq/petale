@@ -71,6 +71,7 @@
         "logo_position": "left-center",
         "mobile_header_layout": "center-left",
         "sticky_header_type": "none",
+        "logo": "shopify://shop_images/VBHBHJBHJ_-removebg-preview.png",
         "logo_width": 100,
         "logo_width_mobile": 100,
         "show_social_icons": false,
