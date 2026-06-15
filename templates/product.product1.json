@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">😌 Relax & Refresh Instantly</span> – Soothe tired eyes and unwind after long screen time or a busy day.<br><br>\n<span style=\"font-weight: bold;\">🔴 Advanced Light Therapy</span> – Gentle red light helps support a brighter, more youthful-looking eye area.<br><br>\n<span style=\"font-weight: bold;\">✨ Reduce Puffiness & Dark Circles</span> – Enjoy a smoother, revitalized appearance with regular use.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">✨ Deep Pore Cleansing</span> – Helps remove blackheads, whiteheads, excess oil, and impurities for clearer-looking skin.<br><br>\n<span style=\"font-weight: bold;\">💧 Gentle Skin Scrubbing</span> – Uses soft ultrasonic vibration to cleanse the face without harsh rubbing or irritation.<br><br>\n<span style=\"font-weight: bold;\">🌸 Smooth & Fresh Glow</span> – Leaves your skin feeling clean, soft, refreshed, and ready for your skincare routine.\n</div>"
           }
         },
         "quantity_selector": {
@@ -270,7 +270,7 @@
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "Clear Pores. Clear Confidence.",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -290,7 +290,7 @@
         "speed": 20,
         "direction": "right",
         "pause_hover": false,
-        "bg_light": "#E0DFC8",
+        "bg_light": "#e0dfc8",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -335,6 +335,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1781381303_p2_IMG_4638.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -381,7 +382,7 @@
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "Reveal Smoother, Cleaner Skin in Minutes.",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -401,7 +402,7 @@
         "speed": 20,
         "direction": "right",
         "pause_hover": true,
-        "bg_light": "#E0DFC8",
+        "bg_light": "#e0dfc8",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -446,6 +447,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1781381303_p2_IMG_4637.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -623,7 +625,7 @@
         "swiper_on_mobile": true,
         "auto_play": true,
         "change_bar_every": 5,
-        "background_color_light": "#E0DFC8",
+        "background_color_light": "#e0dfc8",
         "heading_light": "#ffffff",
         "text_light": "#ffffff",
         "color_heading_highlight_light": "rgba(0,0,0,0)",

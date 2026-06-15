@@ -103,7 +103,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<br><br><br>",
+        "custom_liquid": "<br>",
         "full_width": false,
         "show_section_divider": false,
         "padding_top": 28,
